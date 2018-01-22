@@ -1,0 +1,17 @@
+/Users/conradhill/Projects/ListviewNoSelection/ListviewNoSelection/bin/Debug/ListviewNoSelection.dll
+/Users/conradhill/Projects/ListviewNoSelection/ListviewNoSelection/bin/Debug/ListviewNoSelection.pdb
+/Users/conradhill/Projects/ListviewNoSelection/ListviewNoSelection/bin/Debug/Xamarin.Forms.Core.dll
+/Users/conradhill/Projects/ListviewNoSelection/ListviewNoSelection/bin/Debug/Xamarin.Forms.Platform.dll
+/Users/conradhill/Projects/ListviewNoSelection/ListviewNoSelection/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/conradhill/Projects/ListviewNoSelection/ListviewNoSelection/bin/Debug/Xamarin.Forms.Core.pdb
+/Users/conradhill/Projects/ListviewNoSelection/ListviewNoSelection/bin/Debug/Xamarin.Forms.Core.dll.mdb
+/Users/conradhill/Projects/ListviewNoSelection/ListviewNoSelection/bin/Debug/Xamarin.Forms.Core.xml
+/Users/conradhill/Projects/ListviewNoSelection/ListviewNoSelection/bin/Debug/Xamarin.Forms.Platform.pdb
+/Users/conradhill/Projects/ListviewNoSelection/ListviewNoSelection/bin/Debug/Xamarin.Forms.Xaml.pdb
+/Users/conradhill/Projects/ListviewNoSelection/ListviewNoSelection/bin/Debug/Xamarin.Forms.Xaml.dll.mdb
+/Users/conradhill/Projects/ListviewNoSelection/ListviewNoSelection/bin/Debug/Xamarin.Forms.Xaml.xml
+/Users/conradhill/Projects/ListviewNoSelection/ListviewNoSelection/obj/Debug/ListviewNoSelection.csproj.CoreCompileInputs.cache
+/Users/conradhill/Projects/ListviewNoSelection/ListviewNoSelection/obj/Debug/ListviewNoSelection.App.xaml.g.cs
+/Users/conradhill/Projects/ListviewNoSelection/ListviewNoSelection/obj/Debug/ListviewNoSelection.Views.NoSelectionTest.xaml.g.cs
+/Users/conradhill/Projects/ListviewNoSelection/ListviewNoSelection/obj/Debug/ListviewNoSelection.dll
+/Users/conradhill/Projects/ListviewNoSelection/ListviewNoSelection/obj/Debug/ListviewNoSelection.pdb
